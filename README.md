@@ -6,7 +6,7 @@
 ```json
 {
     "name": "김용승",
-    "age": 36,
+    "age": 37,
     "phone": "010-9288-0100",
     "email": "ys0915@korea.ac.kr"
 }
